@@ -1,0 +1,13 @@
+[LIB]
+size=0
+
+[RES]
+size=0
+
+[SOURCE]
+1\SOURCEFILE=/Users/helinxuan/Documents/xspworkspace/Blue-route/xsp/src/main.lua
+size=1
+
+[UI]
+1\UIFILE=/Users/helinxuan/Documents/xspworkspace/Blue-route/xsp/ui/ui.json
+size=1
